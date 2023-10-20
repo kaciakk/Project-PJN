@@ -9,7 +9,10 @@
 This project demonstrates a text classification task using the XGBoost algorithm. The goal is to classify text data into two categories: duplicate and non-duplicate. We will utilize the Quora Question Pairs dataset, containing pairs of questions and labels that indicate whether the questions are duplicates. The project involves data preprocessing, feature extraction using TF-IDF, model training with XGBoost, and performance evaluation.
 
 ## Instructions
+   0.5. **Test.csv download**:
+   https://drive.google.com/drive/folders/1CUWfbf5Gc-f5aVtIcw_WL9GtPdPzQeGB?usp=sharing
 
+   
 Follow the instructions below to understand the project and run the code successfully:
 
 1. **Data Preparation**:
